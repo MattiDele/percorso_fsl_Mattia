@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="Realtà aumentata">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#06192f" offset="0"/>
+      <stop stop-color="#0f4d86" offset="1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="760" fill="url(#g)"/>
+  <g opacity=".22" stroke="#46c7f2" stroke-width="2">
+    <path d="M0 120h1200M0 240h1200M0 360h1200M0 480h1200M0 600h1200"/>
+    <path d="M120 0v760M240 0v760M360 0v760M480 0v760M600 0v760M720 0v760M840 0v760M960 0v760M1080 0v760"/>
+  </g>
+  <g fill="none" stroke="#46c7f2" stroke-width="12" stroke-linejoin="round">
+    <path d="M260 245l180-105 180 105v210L440 560 260 455z"/>
+    <path d="M440 140v210l180 105M440 350L260 245" opacity=".7"/>
+  </g>
+  <g fill="#ffffff" opacity=".95">
+    <rect x="705" y="218" width="305" height="52" rx="12"/>
+    <rect x="705" y="323" width="410" height="52" rx="12" opacity=".85"/>
+    <rect x="705" y="428" width="250" height="52" rx="12" opacity=".72"/>
+  </g>
+  <circle cx="590" cy="235" r="18" fill="#46c7f2"/>
+  <circle cx="665" cy="350" r="18" fill="#46c7f2"/>
+  <circle cx="590" cy="465" r="18" fill="#46c7f2"/>
+  <path d="M608 235h78M683 350h-62M608 465h78" stroke="#46c7f2" stroke-width="8" stroke-linecap="round"/>
+</svg>
